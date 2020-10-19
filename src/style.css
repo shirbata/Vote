@@ -1,0 +1,36 @@
+.title {
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-div {
+    height: 100px;
+}
+.rectangle {
+    height: 90px;
+    width: 366px;
+    background-color: rgb(189, 204, 136);
+    margin-left: 450px;
+    border-style: solid;
+}
+.button {
+    margin-left: 210px;
+    margin-top: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 160%;
+    text-decoration: underline;
+    width: 150px;
+    height: 40px;
+    color: rgb(189, 204, 136);
+}
+.amount {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 160%;
+    margin-left: 30px;
+    margin-top: -29px;
+}
+.Language-type {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 160%;
+    margin-left: 120px;
+    margin-top: -40px;
+}
